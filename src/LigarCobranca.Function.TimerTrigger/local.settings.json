@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "TotalVoiceAPI": "https://api2.totalvoice.com.br/",
+    "TotalVoiceToken": "TOKEN",
+    "TelefoneIndesejados": "TELEFONES_INDESEJADOS (TEL1,TEL2,ETC)",
+    "Bina": "NUMERO_BINA"
+  }
+}
