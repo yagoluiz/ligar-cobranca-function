@@ -4,7 +4,7 @@ Azure Function para realizar ligações em tempo determinado com o objetivo de p
 
 ## Estrutura do projeto
 
-Implementado utilizando API de comunicação de voz e por texto [Total Voice] (https://www.totalvoice.com.br).
+Implementado utilizando API de comunicação de voz e por texto [Total Voice](https://www.totalvoice.com.br).
 
 ## Instruções para execução do projeto
 
